@@ -1,0 +1,10 @@
+name: MinijuegosManager
+main: me.zwoosks.MainClass
+version: 1.0
+commands:
+   fix:
+      description: Fix velocity to 1
+      usage: /<command>
+   notJump:
+      description: Jump
+      usage: /<command>
